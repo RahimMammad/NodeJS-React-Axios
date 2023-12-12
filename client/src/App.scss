@@ -1,0 +1,22 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+
+  img {
+    width: 150px;
+    height: 200px;
+  }
+
+  .cards {
+    width: 300px;
+    margin-left: 50px;
+    margin-right: auto;
+
+    span {
+      font-size: 28px;
+    }
+  }
+}
